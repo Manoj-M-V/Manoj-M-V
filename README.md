@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my problem solving skills**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **manojvrao28@gmail.com**
 
