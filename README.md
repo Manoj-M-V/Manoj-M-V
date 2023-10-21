@@ -26,8 +26,9 @@
 <h3 align="left">Badges:</h3>
 <div style="display: inline-block;">
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16ZXJwM3EzMDUwMGZsZHZ4d2JwZTdhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="tree-planting" width="40" height="40" />
-    <img src="https://assets.holopin.io/hf2023levels/level0-blue-0-0-0.webp" alt="" width="40" height="40" />
+    <img src="https://assets.holopin.io/hf2023levels/level1-blue-0-0-0.webp" alt="" width="40" height="40" />
     <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" alt="" width="40" height="40" />
 </div>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-m-v&show_icons=true&locale=en" alt="manoj-m-v" /></p>
